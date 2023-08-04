@@ -35,7 +35,7 @@ describe('CatsService', () => {
     expect(service).toBeDefined();
   });
 
-  it('carsRepo shoukd be defined', () => {
+  it('carsRepo should be defined', () => {
     expect(catsRepo).toBeDefined();
   });
 });
